@@ -19,5 +19,3 @@ This project enables sorting a list of items (numbers or strings) in ascending o
 - Choose sort direction
 - View sorted output
 
-## License
-MIT License
